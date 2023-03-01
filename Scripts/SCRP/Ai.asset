@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d567478dfb41230468a8946a62e2399b, type: 3}
+  m_Name: Ai
+  m_EditorClassIdentifier: 
+  items:
+  - id: 0
+    statusNumber: 2
+    itemName: Woman0
+    itemPrice: 0
+    isPurchased: 1
+    itemImage: {fileID: 21300000, guid: 803f139d9b911814d9e99066b7bafe8e, type: 3}
+    itemPrefab: {fileID: 4282206513380252080, guid: 64cfe8648d07a2642aa2f078a550ffe4, type: 3}
+    itemType: 0
+  - id: 1
+    statusNumber: 0
+    itemName: Woman1
+    itemPrice: 0
+    isPurchased: 0
+    itemImage: {fileID: 21300000, guid: 803f139d9b911814d9e99066b7bafe8e, type: 3}
+    itemPrefab: {fileID: 7835843976101981795, guid: 648aee16d6b2874449948425c2cb93f5, type: 3}
+    itemType: 0
+  - id: 2
+    statusNumber: 0
+    itemName: Woman2
+    itemPrice: 0
+    isPurchased: 0
+    itemImage: {fileID: 21300000, guid: e7c0bb655562f3b4bbb6e3c39411e796, type: 3}
+    itemPrefab: {fileID: 7835843976101981795, guid: f1958704f39c215458d95996cc9ab5d6, type: 3}
+    itemType: 0
+  - id: 3
+    statusNumber: 0
+    itemName: Woman3
+    itemPrice: 0
+    isPurchased: 0
+    itemImage: {fileID: 21300000, guid: e7c0bb655562f3b4bbb6e3c39411e796, type: 3}
+    itemPrefab: {fileID: 7835843976101981795, guid: 36d875e75efeb4c419b035c81efb731b, type: 3}
+    itemType: 0
+  - id: 4
+    statusNumber: 0
+    itemName: Woman4
+    itemPrice: 0
+    isPurchased: 0
+    itemImage: {fileID: 21300000, guid: e7c0bb655562f3b4bbb6e3c39411e796, type: 3}
+    itemPrefab: {fileID: 7835843976101981795, guid: 36d875e75efeb4c419b035c81efb731b, type: 3}
+    itemType: 0
+  - id: 5
+    statusNumber: 0
+    itemName: Woman5
+    itemPrice: 0
+    isPurchased: 0
+    itemImage: {fileID: 21300000, guid: e7c0bb655562f3b4bbb6e3c39411e796, type: 3}
+    itemPrefab: {fileID: 7835843976101981795, guid: 36d875e75efeb4c419b035c81efb731b, type: 3}
+    itemType: 0
+  - id: 6
+    statusNumber: 0
+    itemName: Woman6
+    itemPrice: 0
+    isPurchased: 0
+    itemImage: {fileID: 21300000, guid: e7c0bb655562f3b4bbb6e3c39411e796, type: 3}
+    itemPrefab: {fileID: 7835843976101981795, guid: 36d875e75efeb4c419b035c81efb731b, type: 3}
+    itemType: 0
+  - id: 7
+    statusNumber: 0
+    itemName: Woman7
+    itemPrice: 0
+    isPurchased: 0
+    itemImage: {fileID: 21300000, guid: e7c0bb655562f3b4bbb6e3c39411e796, type: 3}
+    itemPrefab: {fileID: 7835843976101981795, guid: 36d875e75efeb4c419b035c81efb731b, type: 3}
+    itemType: 0
+  - id: 8
+    statusNumber: 0
+    itemName: Woman8
+    itemPrice: 0
+    isPurchased: 0
+    itemImage: {fileID: 21300000, guid: e7c0bb655562f3b4bbb6e3c39411e796, type: 3}
+    itemPrefab: {fileID: 7835843976101981795, guid: 36d875e75efeb4c419b035c81efb731b, type: 3}
+    itemType: 0
+  haveItemCount: 1

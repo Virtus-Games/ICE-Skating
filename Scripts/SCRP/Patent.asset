@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d567478dfb41230468a8946a62e2399b, type: 3}
+  m_Name: Patent
+  m_EditorClassIdentifier: 
+  items:
+  - id: 0
+    statusNumber: 2
+    itemName: Patent0
+    itemPrice: 0
+    isPurchased: 0
+    itemImage: {fileID: 21300000, guid: dc526ed6453a50741a5ec01e7a267db5, type: 3}
+    itemPrefab: {fileID: 7543493497309289256, guid: 1d16f97c9793b5d499f9de2fb65eae7a, type: 3}
+    itemType: 1
+  - id: 1
+    statusNumber: 0
+    itemName: Patent1
+    itemPrice: 0
+    isPurchased: 0
+    itemImage: {fileID: 21300000, guid: f4829cd34d10c4a458632f5e943a770e, type: 3}
+    itemPrefab: {fileID: 1492318926623111638, guid: 917e013d23038c348b5e54100d9ebbe0, type: 3}
+    itemType: 1
+  - id: 2
+    statusNumber: 0
+    itemName: Patent2
+    itemPrice: 0
+    isPurchased: 0
+    itemImage: {fileID: 21300000, guid: 344a36a8b9faf72448744a631594f4bc, type: 3}
+    itemPrefab: {fileID: 452531541037244757, guid: e723b3d321fd7c84292cb7e1f8a78c82, type: 3}
+    itemType: 1
+  - id: 3
+    statusNumber: 0
+    itemName: Patent3
+    itemPrice: 0
+    isPurchased: 0
+    itemImage: {fileID: 21300000, guid: ba1821f97e948ef48b90f3689cf26853, type: 3}
+    itemPrefab: {fileID: 6019036440665190466, guid: ecfb4c1d1b3adb94fafffc739430aedf, type: 3}
+    itemType: 1
+  - id: 4
+    statusNumber: 0
+    itemName: Patent4
+    itemPrice: 0
+    isPurchased: 0
+    itemImage: {fileID: 21300000, guid: fb84e3e798825f047a34df3741894d4a, type: 3}
+    itemPrefab: {fileID: 7273631355766507675, guid: 37cee0b40ba80314b8e2d07e0ff76283, type: 3}
+    itemType: 1
+  - id: 4
+    statusNumber: 0
+    itemName: Patent5
+    itemPrice: 0
+    isPurchased: 0
+    itemImage: {fileID: 21300000, guid: cfddbe9e0ae0fff40add52a762f96b07, type: 3}
+    itemPrefab: {fileID: 5769393770152827411, guid: 50bdaa7f29b78a445946b5d4ab1d41f3, type: 3}
+    itemType: 1
+  haveItemCount: 6
